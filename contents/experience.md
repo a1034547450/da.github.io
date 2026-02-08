@@ -1,11 +1,23 @@
 ### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+**October 2021 – February 2022 | TikTok Music**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+I was responsible for optimizing the architecture of the streaming music app Resso — the product that later became TikTok Music.
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
+- Foundation Component Development.  
+- Program Architecture and Efficiency Optimization.  
+- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+
+---
+
+### **Software Engineer Intern**  
+**October 2021 – February 2022 | TikTok Music**  
+
+I was responsible for optimizing the architecture of the streaming music app Resso — the product that later became TikTok Music.
+
+#### Key Contributions:  
+- Foundation Component Development.  
+- Program Architecture and Efficiency Optimization.  
 - Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
 
 ---

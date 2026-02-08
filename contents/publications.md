@@ -16,7 +16,7 @@
 
 - LifeIR at the NTCIR-18 Lifelog-6 Task (NTCIR-18 Co-Author)
 
-- The 3rd Place Solution of CCIR CUP 2025: A Framework for Retrieval-Augmented Generation in Multi-Turn Legal Conversation (CCIR-CUP 2025 Project Leader)
+- The 3rd Place Solution of CCIR-CUP2025: A Framework for Retrieval-Augmented Generation in Multi-Turn Legal Conversation (CCIR-CUP 2025 Project Leader)
 
 - Kwai Keye-VL Technical Report (Technical Report, Core Contributor)
 

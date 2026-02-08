@@ -6,8 +6,6 @@
 
 - Beyond Text-Only: Towards Multimodal Table Retrieval in Open-World (ICLR2026 First Author)
 
-- Compression then Matching: An Efficient Pre-training Paradigm for Multimodal Embedding (First Author)
-
 - A Survey of Link Prediction in N-ary Knowledge Graphs (EMNLP2025 Co-Author)
 
 - Run, Ruminate, and Regulate: A Dual-process Thinking System for Vision-and-Language Navigation (AAAI2026 Co-Author)

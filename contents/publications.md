@@ -21,3 +21,5 @@
 - Kwai Keye-VL Technical Report (Technical Report, Core Contributor)
 
 - Kwai Keye-VL 1.5 Technical Report (Technical Report, Core Contributor)
+
+- Prediction of Pulmonary Fibrosis Based on X‐Rays by Deep Neural Network(2022 First Author)

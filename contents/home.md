@@ -6,6 +6,9 @@ I am currently pursuing a Ph.D. in Computer Science and Technology at the Instit
 #### Research Interests  
 Information Retrieval, LLM/MLLM, Representation Learning, Agent.
 
+#### Advertisement
+I am collaborating with some tech enthusiasts to explore various applications based on foundational models, including but not limited to model optimization, agent training, and practical applications. We can provide internship positions and corresponding compensation. We welcome inquiries and look forward to working on challenging projects with talented individuals like you! 
+
 #### Education  
 **Institute of Computing Technology, CAS**, Ph.D. in Computer Science and Technology (2023 – Present)  
 • Information Retrieval/Foundation Model/RAG
@@ -16,6 +19,3 @@ Information Retrieval, LLM/MLLM, Representation Learning, Agent.
 **Dalian University of Technology**, Bachelor of Software Engineering (2017 – 2021)  
 • GPA: 4.1/5 (Rank 3/500+)  
 
-#### Advertisement
-
-I am collaborating with some tech enthusiasts to explore various applications based on foundational models, including but not limited to model optimization, agent training, and practical applications. We can provide internship positions and corresponding compensation. We welcome inquiries and look forward to working on challenging projects with talented individuals like you! 

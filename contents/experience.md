@@ -40,7 +40,6 @@ I was responsible for optimizing the architecture of the streaming music app Res
 #### Key Contributions:  
 - Foundation Component Development.  
 - Program Architecture and Efficiency Optimization.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
-
+- Conducted A/B testing and performance analysis.  
 ---
 

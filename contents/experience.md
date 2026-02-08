@@ -1,5 +1,37 @@
+### **Intern**  
+**March 2025 – February 2026 | Kuaishou Technology**  
+
+I served as a research assistant, focusing on the optimization of Multimodal Embedding Models.
+
+#### Key Contributions:  
+- Optimization of Multimodal Embedding Models.  
+- Technical Exploration and Innovation.  
+- Provide foundational models for a wide range of internal applications.  
+
+---
+**March 2023 – February 2025 | TikTok Shop**  
+
+I served as a research assistant, focusing on the optimization of foundational models, including LLMs and MLLMs.
+
+#### Key Contributions:  
+- Building cutting-edge foundational models for e-commerce.  
+- Building the Pre-training Pipeline for LLMs and MLLMs.  
+- Task optimization for real-world application scenarios.  
+
+---
+**March 2022 – September 2022 | Bytedance**  
+
+I served as an NLP Engineer, responsible for iteratively optimizing technologies related to dialogue and information extraction.
+
+#### Key Contributions:  
+- Customer Service Dialogue Generation.  
+- Structured Information Extraction.  
+- Optimization of classification tasks.  
+
+---
+
 ### **Software Engineer Intern**  
-**October 2021 – February 2022 | TikTok Music**  
+**October 2020 – February 2021 | TikTok Music**  
 
 I was responsible for optimizing the architecture of the streaming music app Resso — the product that later became TikTok Music.
 
@@ -10,24 +42,3 @@ I was responsible for optimizing the architecture of the streaming music app Res
 
 ---
 
-### **Software Engineer Intern**  
-**October 2021 – February 2022 | TikTok Music**  
-
-I was responsible for optimizing the architecture of the streaming music app Resso — the product that later became TikTok Music.
-
-#### Key Contributions:  
-- Foundation Component Development.  
-- Program Architecture and Efficiency Optimization.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
-
----
-
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。

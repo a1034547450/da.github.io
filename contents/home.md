@@ -3,6 +3,8 @@ I am currently pursuing a Ph.D. in Computer Science and Technology at the Instit
 #### Email  
 <code>lida.ucas@gmail.com</code>  
 <!-- <code>XX@XX.XX</code> -->
+#### Research Interests  
+Information Retrieval, LLM/MLLM, Representation Learning, Agent.
 
 #### Education  
 **Institute of Computing Technology, CAS**, Ph.D. of Computer Science and Technology (2023 – Present)  
@@ -14,5 +16,4 @@ I am currently pursuing a Ph.D. in Computer Science and Technology at the Instit
 **Dalian University of Technology**, Bachelor of Software Engineering (2017 – 2021)  
 • GPA: 4.1/5 (Rank 3/500+)  
 
-#### Research Interests  
-Information Retrieval, LLM/MLLM, Representation Learning, Agent.
+

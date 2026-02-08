@@ -5,7 +5,7 @@ I am currently pursuing a Ph.D. in Computer Science and Technology at the Instit
 <!-- <code>XX@XX.XX</code> -->
 
 #### Education  
-**Institute of Computing Technology, CAS**, Master of XX (2023 – Now)  
+**Institute of Computing Technology, CAS**, Ph.D. of Computer Science and Technology (2023 – Present)  
 • Information Retrieval/Foundation Model/RAG
 
 **Institute of Computing Technology, CAS**, Master of Computer. Software and Theory (2021 – 2023)  

@@ -1,20 +1,18 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
-
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I am currently pursuing a Ph.D. in Computer Science and Technology at the Institute of Computing Technology, Chinese Academy of Sciences. My research interests encompass information retrieval and the optimization of foundational models, including LLMs and MLLMs. If you're interested in what I'm working on, feel free to reach out for a chat.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>lida.ucas@gmail.com</code>  
+<!-- <code>XX@XX.XX</code> -->
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Institute of Computing Technology, CAS**, Master of XX (2023 – Now)  
+• Information Retrieval/Foundation Model/RAG
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Institute of Computing Technology, CAS**, Master of Computer. Software and Theory (2021 – 2023)  
+• NLP/Machine learning  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Dalian University of Technology**, Bachelor of Software Engineering (2017 – 2021)  
+• GPA: 4.1/5 (Rank 3/500+)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Information Retrieval, LLM/MLLM, Representation Learning, Agent.

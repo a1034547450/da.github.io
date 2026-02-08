@@ -1,4 +1,4 @@
-### **Intern**  
+### **Research Assistant**  
 **March 2025 – February 2026 | Kuaishou Technology**  
 
 I served as a research assistant, focusing on the optimization of Multimodal Embedding Models.
@@ -9,6 +9,7 @@ I served as a research assistant, focusing on the optimization of Multimodal Emb
 - Provide foundational models for a wide range of internal applications.  
 
 ---
+### **Research Assistant** 
 **March 2023 – February 2025 | TikTok Shop**  
 
 I served as a research assistant, focusing on the optimization of foundational models, including LLMs and MLLMs.
@@ -19,6 +20,7 @@ I served as a research assistant, focusing on the optimization of foundational m
 - Task optimization for real-world application scenarios.  
 
 ---
+### **NLP Engineer Intern** 
 **March 2022 – September 2022 | Bytedance**  
 
 I served as an NLP Engineer, responsible for iteratively optimizing technologies related to dialogue and information extraction.

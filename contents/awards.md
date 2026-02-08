@@ -1,3 +1,9 @@
-- 校级一等奖学金, 2022.  
+- National Scholarship, 2020.
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- Huawei Scholarship, 2020/2021.  
+
+- National Scholarship, 2025.
+
+- Outstanding Student, 2020/2021/2022/2023.
+
+- E Fund Scholarship, 2025.

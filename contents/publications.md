@@ -8,6 +8,8 @@
 
 - A Survey of Link Prediction in N-ary Knowledge Graphs (EMNLP2025 Co-Author)
 
+- CREM: Compression-Driven Representation Enhancement for Multimodal Retrieval and Comprehension （CVPR2026 Finding Co-Author)
+
 - Run, Ruminate, and Regulate: A Dual-process Thinking System for Vision-and-Language Navigation (AAAI2026 Co-Author)
 
 - OmniCVR: A Benchmark for Omni-Composed Video Retrieval with Vision, Audio, and Text (ICLR2026 Co-Author)

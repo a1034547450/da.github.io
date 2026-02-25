@@ -1,4 +1,4 @@
-- FashionLOGO: Prompting Multimodal Large Language Models for Fashion Logo Embeddings (CIKM2024 First Author)
+- FashionLOGO: Prompting Multimodal Large Language Models for Fashion Logo Embeddings (CIKM2024 Co-First Author)
 
 - Tailoring Table Retrieval from a Field-aware Hybrid Matching Perspective (EMNLP2025 First Author)
 
@@ -6,9 +6,11 @@
 
 - Beyond Text-Only: Towards Multimodal Table Retrieval in Open-World (ICLR2026 First Author)
 
-- A Survey of Link Prediction in N-ary Knowledge Graphs (EMNLP2025 Co-Author)
+- Compression then Matching: An Efficient Pre-training Paradigm for Multimodal Embedding (Arxiv First Author)
 
-- CREM: Compression-Driven Representation Enhancement for Multimodal Retrieval and Comprehension （CVPR2026 Finding Co-Author)
+- CREM: Compression-Driven Representation Enhancement for Multimodal Retrieval and Comprehension （CVPR2026 Finding Co-First Author)
+
+- A Survey of Link Prediction in N-ary Knowledge Graphs (EMNLP2025 Co-Author)
 
 - Run, Ruminate, and Regulate: A Dual-process Thinking System for Vision-and-Language Navigation (AAAI2026 Co-Author)
 

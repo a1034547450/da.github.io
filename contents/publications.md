@@ -10,6 +10,8 @@
 
 - CREM: Compression-Driven Representation Enhancement for Multimodal Retrieval and Comprehension （CVPR2026 Finding Co-First Author)
 
+- Beyond Forced Modality Balance: Intrinsic Information Budgets for Multimodal Learning （ICME2026 Corresponding Author)
+
 - A Survey of Link Prediction in N-ary Knowledge Graphs (EMNLP2025 Co-Author)
 
 - Run, Ruminate, and Regulate: A Dual-process Thinking System for Vision-and-Language Navigation (AAAI2026 Co-Author)

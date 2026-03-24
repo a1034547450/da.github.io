@@ -1,4 +1,14 @@
 ### **Research Assistant**  
+**April 2026 – Now | Alibaba**  
+
+I served as a research assistant, focusing on the optimization of Multimodal Embedding Models and the post-training of LLMs.
+
+#### Key Contributions:  
+- Optimization of Foundation Model and Applications of Agents.
+- Providing cutting-edge models for internal applications.  
+
+---
+### **Research Assistant**  
 **March 2025 – February 2026 | Kuaishou Technology**  
 
 I served as a research assistant, focusing on the optimization of Multimodal Embedding Models.

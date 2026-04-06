@@ -8,7 +8,7 @@
 
 - Compression then Matching: An Efficient Pre-training Paradigm for Multimodal Embedding (ACL2026 First Author)
 
-- CREM: Compression-Driven Representation Enhancement for Multimodal Retrieval and Comprehension (CVPR2026 Finding Co-First Author)
+- CREM: Compression-Driven Representation Enhancement for Multimodal Retrieval and Comprehension (CVPR2026 Findings Co-First Author)
 
 - Beyond Forced Modality Balance: Intrinsic Information Budgets for Multimodal Learning (ICME2026 Co-First Author)
 

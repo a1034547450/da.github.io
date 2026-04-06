@@ -6,11 +6,11 @@
 
 - Beyond Text-Only: Towards Multimodal Table Retrieval in Open-World (ICLR2026 First Author)
 
-- Reconstructing Content via Collaborative Attention to Improve Multimodal Embedding Quality （SIGIR2026 Co-Author)
+- Reconstructing Content via Collaborative Attention to Improve Multimodal Embedding Quality (SIGIR2026 Co-Author)
 
 - Compression then Matching: An Efficient Pre-training Paradigm for Multimodal Embedding (Arxiv First Author)
 
-- CREM: Compression-Driven Representation Enhancement for Multimodal Retrieval and Comprehension （CVPR2026 Finding Co-First Author)
+- CREM: Compression-Driven Representation Enhancement for Multimodal Retrieval and Comprehension (CVPR2026 Finding Co-First Author)
 
 - Beyond Forced Modality Balance: Intrinsic Information Budgets for Multimodal Learning （ICME2026 Co-First Author)
 

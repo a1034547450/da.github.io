@@ -6,13 +6,15 @@
 
 - Beyond Text-Only: Towards Multimodal Table Retrieval in Open-World (ICLR2026 First Author)
 
-- Compression then Matching: An Efficient Pre-training Paradigm for Multimodal Embedding (ACL2026 First Author)
+- Compressing then Matching: An Efficient Pre-training Paradigm for Multimodal Embedding (ACL2026 First Author)
 
 - CREM: Compression-Driven Representation Enhancement for Multimodal Retrieval and Comprehension (CVPR2026 Findings Co-First Author)
 
 - Beyond Forced Modality Balance: Intrinsic Information Budgets for Multimodal Learning (ICME2026 Co-First Author)
 
 - Reconstructing Content via Collaborative Attention to Improve Multimodal Embedding Quality (SIGIR2026 Co-Author)
+
+- Generative Optimization for Incentivized Advertising with Global Level Constraints (SIGKDD2026 Co-Author)
 
 - A Survey of Link Prediction in N-ary Knowledge Graphs (EMNLP2025 Co-Author)
 

@@ -12,15 +12,15 @@
 
 - Beyond Forced Modality Balance: Intrinsic Information Budgets for Multimodal Learning (ICME2026 Co-First Author)
 
-- Reconstructing Content via Collaborative Attention to Improve Multimodal Embedding Quality (SIGIR2026 Co-Author)
+- Reconstructing Content with Collaborative Attention for Universal Multimodal Representation Learning (SIGIR2026 Co-Author)
 
 - Generative Optimization for Incentivized Advertising with Global Level Constraints (SIGKDD2026 Co-Author)
-
-- A Survey of Link Prediction in N-ary Knowledge Graphs (EMNLP2025 Co-Author)
 
 - Run, Ruminate, and Regulate: A Dual-process Thinking System for Vision-and-Language Navigation (AAAI2026 Co-Author)
 
 - OmniCVR: A Benchmark for Omni-Composed Video Retrieval with Vision, Audio, and Text (ICLR2026 Co-Author)
+
+- A Survey of Link Prediction in N-ary Knowledge Graphs (EMNLP2025 Co-Author)
 
 - LifeIR at the NTCIR-18 Lifelog-6 Task (NTCIR-18 Co-Author)
 
@@ -30,4 +30,4 @@
 
 - Kwai Keye-VL 1.5 Technical Report (Technical Report, Core Contributor)
 
-- Prediction of Pulmonary Fibrosis Based on X‐Rays by Deep Neural Network(2022 First Author)
+- Prediction of Pulmonary Fibrosis Based on X‐Rays by Deep Neural Network (2022 First Author)
